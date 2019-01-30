@@ -53,5 +53,6 @@ Gizmonic Institute Company (GIM)
 
 ### Footer {#footer}
 
+> scott.w.mugford@gmail.com
 
 ------
