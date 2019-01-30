@@ -1,5 +1,5 @@
 # Scott Mugford
-## Devops Engineer, Onica onica.com
+## Devops Engineer, Onica [onica.com](https://www.onica.com)
 
 > scott.w.mugford@gmail.com
 
