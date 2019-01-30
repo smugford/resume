@@ -7,29 +7,30 @@
 
 ### Profile {#profile}
 
-Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.
+Maintain and Progressively Improve AWS Infrastructure
 
 ------
 
 ### Skills {#skills}
 
-* Web Design
-  : Assertively exploit wireless initiatives rather than synergistic core competencies.
+* AWS CloudFormation
+  : Use of Cloudformations tools to programatically deploy your stacks.
 
-* Interface Design
+* Terraform
   : Credibly streamline mission-critical value with multifunctional functionalities.
 
-* Project Direction
+* Documentation
   : Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
 
 -------
 
 ### Technical {#technical}
 
-1. AWS
-1. Cloud Formation
+1. Strong AWS Knowledge
+1. Linux
+1. Windows
 1. High Availability in the Cloud
-1. Jquery
+1. Exposure to Azure
 1. PHP
 1. Git
 1. Linux
