@@ -62,7 +62,7 @@ Gizmonic Institute Company (GIM)
 Convert Below to Readme Format
 
 
-Scott.W.Mugford ..
+## Scott W. Mugford . 
 Vancouver, BC ..
 V6J 1V9 ..
 Linked In: https://www.linkedin.com/in/scott-mugford-6063b445/scott.w.mugford@gmail.com ..
