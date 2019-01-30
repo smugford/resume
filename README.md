@@ -26,14 +26,12 @@ Progressively evolve cross-platform ideas before impactful infomediaries. Energi
 
 ### Technical {#technical}
 
-1. XHTML
-1. CSS
-1. Javascript
+1. AWS
+1. Cloud Formation
+1. High Availability in the Cloud
 1. Jquery
 1. PHP
-1. CVS / Subversion
-1. OS X
-1. Windows XP/Vista
+1. Git
 1. Linux
 
 ------
