@@ -63,7 +63,7 @@ Convert Below to Readme Format
 
 
 ## Scott W. Mugford 
-Vancouver, British Columbia Canada . 
+Vancouver, British Columbia Canada .   
 Linked In: https://www.linkedin.com/in/scott-mugford-6063b445/scott.w.mugford@gmail.com . 
  
 
