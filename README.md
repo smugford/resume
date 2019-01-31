@@ -60,13 +60,12 @@ As well as maintain and Progressively Improve AWS Infrastructure with a goal tow
 | Telrad  (Contract) | Web Developer  | 2015 - 2016
 | Travel Professionals Int. ( Contract ) | Web Developer | 2014 - 2015
 | Front Street Pictures | Web Developer | 2012 - 2014
-| Game Asset Trading	|	PHP/Symfony Developer	|	2007 – 2012
+| DWeb Dev Freelancing	|	PHP/Symfony Developer	|	2007 – 2012
 | CGI Group, Inc |	System Administrator/Consultant |	2004 – 2007
 | MicroAge Computer Systems	| Onsite Service Technician	|2003 – 2004
 Fitness World  | System Administrator |	 2000 – 2002
 SHL Systemhouse Ltd. | Onsite Service Technician | 1996 – 1999
 SHL Learning Technologies Ltd. | Support and Sales | 1994 – 1996
-
 
 ---
 ---
@@ -121,7 +120,7 @@ SHL Learning Technologies Ltd. | Support and Sales | 1994 – 1996
 + Train key end users on use of the content management 
 > Technical Tools:    Symfony 1.4, jQuery, jQueryUI, HTML5, CSS
 ---
-## Game Asset Trading								2007 – 2012
+##  Website Development Freelancing 								2007 – 2012
 ### Symphony/PHP Developer
 ### Responsibilities: 
 > PHP Development of the Game Asset Trading website using the Symfony PHP/MVC Framework
