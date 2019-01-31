@@ -12,7 +12,7 @@ As well as maintain and Progressively Improve AWS Infrastructure with a goal tow
 ------
 
 ## Cloud Experience 
-* Over Two Years of as a DevOps Engineer at a AWS Premier Parter
+* 2 + Years of as a DevOps Engineer at a AWS Premier Parter
 * Some Exposure to Azure
 
 ### AWS Services Used
