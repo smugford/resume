@@ -1,6 +1,6 @@
 ## Scott W. Mugford 
 ## Devops Engineer, [Onica.com](https://www.onica.com)
-Vancouver, British Columbia Canada .   
+Vancouver, British Columbia Canada
 
 > scott.w.mugford@gmail.com || > [LinkedIn](https://www.linkedin.com/in/scott-mugford-6063b445/scott.w.mugford@gmail.com "LinkedIn")
 
