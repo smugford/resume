@@ -71,7 +71,7 @@ SHL Learning Technologies Ltd. | Support and Sales | 1994 – 1996
 * Rotating On Call to ensure someone is manning the ticketing system at all times
 * Weekly and Daily Standups with various clients to determine priorities, current issues, and proposed fixes
 ---
----
+
 # Previous Employment History
 ## Telrad International	Ltd (Contract)				       2015
 ### Web Developer
