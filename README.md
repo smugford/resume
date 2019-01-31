@@ -5,7 +5,7 @@ Vancouver, British Columbia Canada
 > scott.w.mugford@gmail.com || > [LinkedIn](https://www.linkedin.com/in/scott-mugford-6063b445/scott.w.mugford@gmail.com "LinkedIn")
 
 ### Summary 
-With over twenty years experience in the IT industry, I have worked in a fairly wide range of technologies and programming languages. My latest role was as a DevOps Engineer at a AWS Premier Partner in Canada Called Trinimbus which resently got acquired by Onica.com. The day to day tasks are ensuring the environment(s) are running correctly. Taking care of issues that arize from Alerts from monitoring tools as effeciently as possible.
+With over twenty years experience in the IT industry, I have worked in a fairly wide range of technologies and programming languages. My latest role is a DevOps Engineer at a AWS Premier Partner in Canada Called Trinimbus which resently got acquired by Onica.com. The day to day tasks are ensuring the environment(s) are running correctly. Taking care of issues that arize from Alerts from monitoring tools as effeciently as possible.
 
 As well as maintain and Progressively Improve AWS Infrastructure with a goal towards High Availabity balanced with Cost Optimization for various clients.
 
