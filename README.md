@@ -60,7 +60,7 @@ SHL Systemhouse Ltd. | Onsite Service Technician | 1996 – 1999
 SHL Learning Technologies Ltd. | Support and Sales | 1994 – 1996
 
 ---
----
+# Current Position
 
 ### Devops Engineer
 > DevOps Engineer in the Managed Services Department Onica.com
