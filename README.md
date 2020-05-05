@@ -163,9 +163,9 @@ SHL Learning Technologies Ltd. | Support and Sales | 1994 – 1996
 * Network Administration (Adding and Removing Users) 
 --- 
 
-## Legacy Certification / Training
+## Certification
 | Vendor    | Certification | Date |   
 | ----------- | ----------- |----------- | 
-| AWS | Solutions Architect | 2020
+| AWS | Solutions Architect Associate | 2020
 | Microsoft | MSCE | 2017
 | COMPTIA |A+, Security+ | 2000  
