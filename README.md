@@ -1,5 +1,5 @@
 ## Scott W. Mugford 
-## Devops Engineer, [Onica.com](https://www.onica.com)
+## Cloud Engineer, [Onica.com](https://www.onica.com)
 Vancouver, British Columbia Canada
 
 > scott.w.mugford@gmail.com || > [LinkedIn](https://www.linkedin.com/in/scott-mugford-6063b445/scott.w.mugford@gmail.com "LinkedIn")
@@ -12,8 +12,8 @@ As well as maintain and Progressively Improve AWS Infrastructure with a goal tow
 ------
 
 ## Cloud Experience 
-* 2 + Years of as a DevOps Engineer at a AWS Premier Parter
-* Some Exposure to Azure
+* 4+ Years of as a Cloud Engineer at a AWS Premier Parter
+* MultiCloud with Azure and AWS
 
 ### AWS Services Used
 * CLOUDFORMATION
@@ -166,5 +166,6 @@ SHL Learning Technologies Ltd. | Support and Sales | 1994 – 1996
 ## Legacy Certification / Training
 | Vendor    | Certification | Date |   
 | ----------- | ----------- |----------- | 
+| AWS | Solutions Architect | 2020
 | Microsoft | MSCE | 2017
 | COMPTIA |A+, Security+ | 2000  
