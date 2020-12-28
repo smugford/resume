@@ -5,59 +5,37 @@ Vancouver, British Columbia Canada
 > scott.w.mugford@gmail.com || > [LinkedIn](https://www.linkedin.com/in/scott-mugford-6063b445/scott.w.mugford@gmail.com "LinkedIn")
 
 ### Summary 
-A life long learner that lives for problem solving. With over twenty years experience in the IT industry, I have worked in a fairly wide range of technologies and programming languages. My latest role is a Senior Cloud Engineer at Rackspace Technologies and my current project is working with a 8 person team to maintain a Multi Cloud (AWS/Azure) for a well established Crown Corporation. 
 
-The day to day tasks are ensuring the environment(s) are running correctly. 
+A life long learner that lives for problem solving. With over twenty years experience in the IT industry, I have worked in a fairly wide range of technologies and programming languages. My latest role is a Senior Devops Engineer at Rackspace Technologies and my current project is working with a 8 person team to maintain a Multi Cloud (AWS/Azure) for a well established Crown Corporation. 
 
-* Taking care of issues that arize from Alerts from monitoring tools as effeciently as possible.
+The day to day tasks include:
 
-As well as maintain and Progressively Improve AWS Infrastructure with a goal towards High Availabity balanced with Cost Optimization for various clients.
+* Daily Standup with Weekly Sprint Planning once a week with the client.
+
+* Troubleshoot AWS Issues as the arize by monitoring Cloudwatch and Log File Analysis.
+
+* On Call Rotation Pager Duty  Rotation.
+
+* Progressively Improve AWS Infrastructure with a goal towards High Availabity balanced with Cost Optimization.
+
+* Training on the new services that AWS and Azure come out in order to keep the knowledge base current.
 
 ------
 
 ## Cloud Experience 
-* 5+ Years of as a Cloud Engineer at a AWS Premier Parter
+* Nearly 5 Years of as a Cloud Engineer at a AWS Premier Parter
 * MultiCloud with Azure and AWS
-
-### AWS Services Used
-* CLOUDFORMATION
-* CLOUDWATCH
-* CODE DEPLOY
-* CODE COMMIT
-* EC2
-* ECS
-* EFS
-* ELASTIC BEANSTALK
-* ELASTICACHE 
-* LAMBDA
-* LOAD BALANCERS
-* RDS
-* ROUTE53
-* S3
-* SECURITY and IAM
-* SES
-* SNS
-* SSM
-* SQS
-* VPCs, Network Security, and Security Groups
-
-
-### ORCHESTRATION TOOLS
-* Sceptre/Cloudformation
-* Terraform
-* Ansible
-* Jenkins
 
 ------
 
 ## Employment Summary
 | Company   | Position | Date |   
 | ----------- | ----------- |----------- | 
-| Onica | Devops Engineer | 2016 - present |
+| Onica/Rackspace | Senior Devops Engineer | 2016 - present |
 | Telrad  (Contract) | Web Developer  | 2015 - 2016
 | Travel Professionals Int. ( Contract ) | Web Developer | 2014 - 2015
 | Front Street Pictures | Web Developer | 2012 - 2014
-| DWeb Dev Freelancing	|	PHP/Symfony Developer	|	2007 – 2012
+| Web Dev Freelancing	|	PHP/Symfony Developer	|	2007 – 2012
 | CGI Group, Inc |	System Administrator/Consultant |	2004 – 2007
 | MicroAge Computer Systems	| Onsite Service Technician	|2003 – 2004
 Fitness World  | System Administrator |	 2000 – 2002
@@ -67,7 +45,7 @@ SHL Learning Technologies Ltd. | Support and Sales | 1994 – 1996
 ---
 # Current Position
 
-### Devops Engineer
+### Senior Devops Engineer
 > DevOps Engineer in the Managed Services Department Onica.com
 
 #### Responsibilities: 
