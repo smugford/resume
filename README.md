@@ -5,15 +5,18 @@ Vancouver, British Columbia Canada
 > scott.w.mugford@gmail.com || > [LinkedIn](https://www.linkedin.com/in/scott-mugford-6063b445/scott.w.mugford@gmail.com "LinkedIn")
 
 ### Summary 
-A life long learner that live for problem solving. In every interview I need to drive home that even if I have no idea what the issue is if I don't know the answer I live for finding it. 
-With over twenty years experience in the IT industry, I have worked in a fairly wide range of technologies and programming languages. My latest role is a DevOps Engineer at a AWS Premier Partner in Canada Called Trinimbus which resently got acquired by Onica.com. The day to day tasks are ensuring the environment(s) are running correctly. Taking care of issues that arize from Alerts from monitoring tools as effeciently as possible.
+A life long learner that lives for problem solving. With over twenty years experience in the IT industry, I have worked in a fairly wide range of technologies and programming languages. My latest role is a Senior Cloud Engineer at Rackspace Technologies and my current project is working with a 8 person team to maintain a Multi Cloud (AWS/Azure) for a well established Crown Corporation. 
+
+The day to day tasks are ensuring the environment(s) are running correctly. 
+
+* Taking care of issues that arize from Alerts from monitoring tools as effeciently as possible.
 
 As well as maintain and Progressively Improve AWS Infrastructure with a goal towards High Availabity balanced with Cost Optimization for various clients.
 
 ------
 
 ## Cloud Experience 
-* 4+ Years of as a Cloud Engineer at a AWS Premier Parter
+* 5+ Years of as a Cloud Engineer at a AWS Premier Parter
 * MultiCloud with Azure and AWS
 
 ### AWS Services Used
@@ -140,7 +143,7 @@ SHL Learning Technologies Ltd. | Support and Sales | 1994 – 1996
 ### Computer Support Technician
 #### Responsibilities:
 * Provide computer training and support to head office and remote locations 
-* Maintain 3 Servers 1) Oracle 2) Linux 3) Window 2000 Server
+* Maintain On Prem Network comprising of Oracle,Linux, and Windows Servers Window 2000 Servers
 
 --- 
 
