@@ -2,7 +2,7 @@
 ## Senior Cloud Engineer, [Onica.com](https://www.onica.com) / [Rackspace](https://www.rackspace.com)
 Vancouver, British Columbia Canada
 
-> scott.w.mugford@gmail.com || > [LinkedIn](https://www.linkedin.com/in/scott-mugford-6063b445/scott.w.mugford@gmail.com "LinkedIn")
+> scott.w.mugford@gmail.com || [LinkedIn](https://www.linkedin.com/in/scott-mugford-6063b445/scott.w.mugford@gmail.com "LinkedIn")
 
 ### Summary 
 
@@ -99,7 +99,7 @@ SHL Learning Technologies Ltd. | Support and Sales | 1994 – 1996
 > Technical Environment:   Linux(CentOS), PHP 5.3, Mysql 5.1, Symfony 1.4
 --- 
 ## CGI Group, Inc								2004 – 2007
-### Consultant/Network Support Technician							
+### Consultant/Systems Adminstrator							
 
 #### Responsibilities: 
 * Desktop Support;  thin client/printing support
