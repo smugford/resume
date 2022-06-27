@@ -1,5 +1,5 @@
 ## Scott W. Mugford 
-## Senior Cloud Engineer, [Onica.com](https://www.onica.com) / [Rackspace](https://www.rackspace.com)
+## Senior Cloud Engineer, [cisco.com](https://www.cisco.com)
 Vancouver, British Columbia Canada
 
 > scott.w.mugford@gmail.com || [LinkedIn](https://www.linkedin.com/in/scott-mugford-6063b445/scott.w.mugford@gmail.com "LinkedIn")
