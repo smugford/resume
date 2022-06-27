@@ -6,7 +6,7 @@ Vancouver, British Columbia Canada
 
 ### Summary 
 
-A life long learner that lives for problem solving with over twenty years experience in the IT industry, I have worked in a fairly wide range of technologies and programming languages. My latest role is a Senior Devops Engineer at Rackspace Technologies and my current project is working with a 8 person team to maintain a Multi Cloud (AWS/Azure) for a well established Crown Corporation. 
+A life long learner that lives for problem solving with over twenty years experience in the IT industry, I have worked in a fairly wide range of technologies and programming languages. My latest role is a Senior Cloud Engineer at Cisco Systems and my current project is working with a the Cloud Delivered VPN Team. 
 
 The day to day tasks include:
 
