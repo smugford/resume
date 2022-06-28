@@ -23,7 +23,8 @@ The day to day tasks include:
 ------
 
 ## Cloud Experience 
-* Nearly 5 Years of as a Cloud Engineer at a AWS Premier Parter
+* Close to 2 years of Cloud Engineer Experience with Cisco's Hybrid Cloud
+* Over 5 Years of as a Cloud Engineer at a AWS Premier Parter
 * MultiCloud with Azure and AWS
 
 ------
@@ -31,7 +32,8 @@ The day to day tasks include:
 ## Employment Summary
 | Company   | Position | Date |   
 | ----------- | ----------- |----------- | 
-| Onica/Rackspace | Senior Devops Engineer | 2016 - present |
+| Cisco | Senior Cloud Engineer | 2021 - present |
+| Onica/Rackspace | Senior Devops Engineer | 2016 - 2021 |
 | Telrad  (Contract) | Web Developer  | 2015 - 2016
 | Travel Professionals Int. ( Contract ) | Web Developer | 2014 - 2015
 | Front Street Pictures | Web Developer | 2012 - 2014
