@@ -10,22 +10,22 @@ A life long learner that lives for problem solving with over twenty years experi
 
 The day to day tasks include:
 
-* Daily Standup with Weekly Sprint Planning once a week with the client.
+* Daily Standup with Bi/Weekly Sprint Planning.
 
-* Troubleshoot AWS Issues as the arize by monitoring Cloudwatch and Log File Analysis.
+* Troubleshoot VPN Issues as the arize by monitoring Prometheus and DataDog Analysis.
 
-* On Call Rotation Pager Duty  Rotation.
+* On Call Rotation/Pager Duty Rotation.
 
-* Progressively Improve AWS Infrastructure with a goal towards High Availabity balanced with Cost Optimization.
+* Progressively Improve AWS Usage with a goal towards High Availabity balanced with Cost Optimization.
 
-* Training on the new services that AWS and Azure come out in order to keep the knowledge base current.
+* Training on the new services that AWS offers in order to keep the knowledge base current.
 
 ------
 
 ## Cloud Experience 
 * Close to 2 years of Cloud Engineer Experience with Cisco's Hybrid Cloud
-* Over 5 Years of as a Cloud Engineer at a AWS Premier Parter
-* MultiCloud with Azure and AWS
+* Close to 5 Years of as a Cloud Engineer at a AWS Premier Parter
+* MultiCloud with Azure,AWS, and Hybrid
 
 ------
 
