@@ -47,6 +47,19 @@ SHL Learning Technologies Ltd. | Support and Sales | 1994 – 1996
 ---
 # Current Position
 
+### Senior Cloud Engineer
+> Senior Cloud Engineer in the Cloud Delivered VPN Team at Cisco Umbrella
+
+#### Responsibilities: 
+* Respond to Cloudwatch Alarms and ensure whatever is triggering the alarm is Resolved ASAP
+* Updating AWS Infrastructure for various clients with differing tool sets and AWS Services
+* Rotating On Call to ensure someone is manning the ticketing system at all times
+* Weekly and Daily Standups with various clients to determine priorities, current issues, and proposed fixes
+---
+
+
+
+
 ### Senior Devops Engineer
 > DevOps Engineer in the Managed Services Department Onica.com
 
