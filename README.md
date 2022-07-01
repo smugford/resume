@@ -2,7 +2,7 @@
 ## Senior Cloud Engineer, [Cisco Umbrella](https://umbrella.cisco.com/)
 Vancouver, British Columbia Canada
 
-> scott.w.mugford@gmail.com || [LinkedIn](https://www.linkedin.com/in/scott-mugford-6063b445/scott.w.mugford@gmail.com "LinkedIn")
+> scott.mugford@outlook.com || [LinkedIn](https://www.linkedin.com/in/scott-mugford-6063b445/ "LinkedIn")
 
 ### Summary 
 
@@ -23,8 +23,7 @@ The day to day tasks include:
 ------
 
 ## Cloud Experience 
-* Close to 2 years of Cloud Engineer Experience with Cisco's Hybrid Cloud
-* Close to 5 Years of as a Cloud Engineer at a AWS Premier Parter
+* 7 years of Cloud Experience
 * MultiCloud with Azure,AWS, and Hybrid
 
 ------
@@ -51,14 +50,11 @@ SHL Learning Technologies Ltd. | Support and Sales | 1994 – 1996
 > Senior Cloud Engineer in the Cloud Delivered VPN Team at Cisco Umbrella
 
 #### Responsibilities: 
-* Respond to Cloudwatch Alarms and ensure whatever is triggering the alarm is Resolved ASAP
-* Updating AWS Infrastructure for various clients with differing tool sets and AWS Services
+* Monitoring VPN Tunnel Traffic on Cisco Data Centers around the world.
+* Writing/Updating Code (Terraform, Bash, Python, Etc) for day to day cloud engineering tasks.
 * Rotating On Call to ensure someone is manning the ticketing system at all times
-* Weekly and Daily Standups with various clients to determine priorities, current issues, and proposed fixes
+* Weekly and Daily Standups to determine priorities, current issues, and proposed fixes
 ---
-
-
-
 
 ### Senior Devops Engineer
 > DevOps Engineer in the Managed Services Department Onica.com
