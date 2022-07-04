@@ -1,3 +1,54 @@
+Currently I am involved with development activities, standups, sprint planning retrospectives
+
+* delivering well-documented, tested, and production-ready code to customers while diving deep into any problems that may arise across their environments.
+
+* You will Lead By Example, using your expertise in AWS Services and API development to deliver solutions defined by your Architect, and coach less-experienced developers as your team builds together.
+
+* You will demonstrate a passion to Stay Curious as you mentor peers, tackle new technologies, and learn from our word-class team of engineers
+
+Your Qualifications
+
+Expertise in underlying web technologies like HTML and CSS, and experience developing with a framework like React, Vue, Angular, MVC .Net, etc.
+* Symfony Framework for a few years which was a MVC Framework.
+
+Experience with modern server-side scripting languages (python, node.js, php, ruby, etc.)
+In-depth knowledge of relational databases (PostgreSQL, MySQL, etc), NoSQL databases (MongoDB, DynamoDB, etc), and object stores (S3, etc)
+* Yes all of the above
+Demonstrated experience in building RESTful services and API integrations
+* Demo App
+Development experience on a major cloud platform (Azure, AWS, or GCP)
+* Mostly AWS Some Azure
+Understanding of modern application architectures (event driven, message queues, microservices, etc)
+* Yes 100%
+Proven ability to learn new technology quickly and effectively.
+* Yes 100%
+Self organizing, detail oriented, and high achieving.
+* Yes 100%
+Ability to work independently
+* Yes 100%
+Excellent written and verbal communication
+* Goodly at this...
+Preferred Qualifications
+
+BS in a computing-related field, or commensurate experience.
+* "Commensurate Experience"
+Experience with testing and automation
+* Yes
+
+Experience with UI/UX
+* Although it's old I do have UI/UX experience
+
+Experience building and maintaining CI/CD pipelines
+* I have exposure to this and can maintain ones already built but have never built out a full
+CI/CD pipeline although i'm very familuar with the process.
+
+Experience configuring AWS resources
+* ummm ya i've got this one.
+
+Experience with infrastructure as code tooling (SAM, Cloudformation, Terraform, etc)
+
+* Prefer Terraform but can use SAM and Cloudformation if that's the clients requirement
+
 ## Scott W. Mugford 
 ## Senior Cloud Engineer, [Cisco Umbrella](https://umbrella.cisco.com/)
 Vancouver, British Columbia Canada
